@@ -1,2 +1,2 @@
 # MATLABMPC
-MATLAB Model Predictive Control
+MATLAB Optimal Control Model Predictive Control
